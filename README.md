@@ -1,13 +1,14 @@
-# XiZhiB5
-晰黑體＆緻明體：「霞鶩晰黑」「霞鶩緻宋」相容 Windows 內置「細明體」度量版本，基於 IPA Gothic、IPA Mincho 衍生，採用 Big5-Eten 字集。
+# 晰黑體Ｂ５＆緻明體Ｂ５</br>XiHeiB5 & ZhiSongB5
+
+「霞鶩晰黑」「霞鶩緻宋」相容 Windows 內置「細明體」度量版本，基於 IPA Gothic、IPA Mincho 衍生，採用 Big5-Eten 字集。
 
 ## 字型簡介
 
-「晰黑體 B5 / XiHeiB5」「緻明體 B5 / ZhiMingB5」是[「霞鶩晰黑 MN」](https://github.com/lxgw/LxgwXiHei)[「霞鶩緻宋 MN」](https://github.com/lxgw/LxgwZhiSong)的分支版本，相容 Windows 系統「細明體」度量數據，採用 BIG5-Eten 字符集。可視為 Windows 系統「細明體」的開源度量相容（metric compatible）版本。
+「晰黑體Ｂ５ / XiHeiB5」「緻明體Ｂ５ / ZhiMingB5」是[「霞鶩晰黑 MN」](https://github.com/lxgw/LxgwXiHei)[「霞鶩緻宋 MN」](https://github.com/lxgw/LxgwZhiSong)的分支版本，相容 Windows 系統「細明體」度量數據，採用 BIG5-Eten 字符集。可視為 Windows 系統「細明體」的開源度量相容（metric compatible）版本。
 
 ### 製作與調整
 
-「晰黑體 B5」和「緻宋體 B5」分別基於 IPA Gothic 和 IPA Mincho 衍生，在保留原字型等寬西文以及全寬基里爾字母、希臘字母的同時，將漢字和全形標點替換為「霞鶩晰黑 MN」和「霞鶩致宋 MN」的字形，並调整了收字範圍，使其符合 BIG5-Eten 字符集。
+「晰黑體Ｂ５」和「緻明體Ｂ５」分別基於 IPA Gothic 和 IPA Mincho 衍生，在保留原字型等寬西文以及全寬基里爾字母、希臘字母的同時，將漢字和全形標點替換為「霞鶩晰黑 MN」和「霞鶩致宋 MN」的字形，並调整了收字範圍，使其符合 BIG5-Eten 字符集。
 
 以下字圖參照主流廠商的 BIG5 繁體中文字型進行了調整：
 
