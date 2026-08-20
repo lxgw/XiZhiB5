@@ -1,3 +1,16 @@
+> [!IMPORTANT]
+> 本倉庫為附屬專案，**現已封存（唯讀），不再跟隨主專案更新**。
+>
+> 主專案仍會不定期進行必要維護，但本倉庫將不再同步這些更新。
+>
+> 如需取得包含最新字元或修復的版本，請直接使用主專案：
+> - [霞鶩晰黑 / LXGW XiHei](https://github.com/lxgw/LxgwXiHei)
+> - [霞鶩緻宋 / LXGW ZhiSong](https://github.com/lxgw/LxgwZhiSong)
+>
+> 歷史版本仍可在此倉庫的 Releases 中下載。感謝您一直以來的支援！
+>
+> 本專案衍生自 IPA 字型，遵循 IPA Font License 1.0。若計劃將本專案字型用於嵌入式用途，請務必仔細閱讀 [IPA Font License 1.0](https://moji.or.jp/ipafont/license/) 條款，並參考[「嵌入須知」](https://github.com/lxgw/lxgw/blob/main/documents/xizhi_embedding_instructions.md)自行評估合規成本（該文件為簡體中文，請自備簡繁轉換工具）
+
 # Ｂ５晰黑體＆Ｂ５緻明體</br>B5XiHei & B5ZhiMing
 
 「霞鶩晰黑」「霞鶩緻宋」相容 Windows 內置「細明體」度量版本，基於 IPA Gothic、IPA Mincho 衍生，採用 Big5-Eten 字集。
